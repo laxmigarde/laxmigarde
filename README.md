@@ -15,14 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me
 - 👧 I'm Laxmi Garde.
 - 🏫 I'm currently pursuing my Master's in Computer Science from USC.
-- 📫 How to reach me....
 
-<h2> Contact me here! </h2>
-<a href="https://www.linkedin.com/in/laxmigarde" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<h2> Connect with me </h2> 
 
+
+<a href="https://linkedin.com/in/laxmigarde" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/LaxmiGarde" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /> </a>
+<a href="https://github.com/laxmigarde" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+</div>
 
 <h2> GitHub Stats </h2>
 
