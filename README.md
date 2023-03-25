@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👧 I'm Laxmi Garde.
 - 🇮🇳 I'm from India.
 - 💻 I'm a Software Engineer.
-- 🏫 I'm currently pursuing Master's in Computer Science at USC:v:
+- :books: I'm currently pursuing Master's in Computer Science at USC:v:
 
 <h2> 🤝 Connect with me </h2> 
 
@@ -160,6 +160,17 @@ Here are some ideas to get you started:
 
 [![Holopin board](https://holopin.io/api/user/board?user=laxmigarde)](https://holopin.io/@laxmigarde)
 
+
+<h2> :page_with_curl: Portfolio Link </h2>
+<p align="center">
+    Scan this QR code :smiley:
+    <br/><br/>
+    <a href="https://www.heroku.com/" target="_blank">
+            <img src="https://github.com/laxmigarde/laxmigarde/blob/main/qr-code.png" alt="portfolio" width="120" height="120" />
+    </a>
+<p>
+
+<br/>
 
 <a href="https://github.com/laxmigarde/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=laxmigarde">
