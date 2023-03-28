@@ -163,9 +163,9 @@ Here are some ideas to get you started:
 
 <h2> :page_with_curl: Portfolio Link </h2>
 <p align="center">
-    Scan this QR code :smiley:
+    Scan or Click this QR code :smiley:
     <br/><br/>
-    <a href="https://www.heroku.com/" target="_blank">
+    <a href="https://laxmigarde.github.io/" target="_blank">
             <img src="https://github.com/laxmigarde/laxmigarde/blob/main/qr-code.png" alt="portfolio" width="120" height="120" />
     </a>
 <p>
