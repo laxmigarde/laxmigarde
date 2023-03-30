@@ -152,8 +152,8 @@ Here are some ideas to get you started:
 <h2> 📊 GitHub Stats </h2>
 
 <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=laxmigarde&theme=dark&border_radius=4.6" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=laxmigarde&show_icons=true&&count_private=true&include_all_commits=true&theme=vision-friendly-dark" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmigarde&layout=compact&theme=vision-friendly-dark" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=laxmigarde&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmigarde&layout=compact&count_private=true&theme=vision-friendly-dark" />
 
 
 <h2> 📍 Pins </h2>
