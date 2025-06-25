@@ -1,153 +1,88 @@
-### Hello everyone!! 👋 
+<h1 align="center">Hi, I'm Laxmi 👋</h1>
 
-<!--
-**laxmigarde/laxmigarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>Software Engineer | MSCS Alum @ USC | Beyond Limits | Ex-HSBC | Backend Systems & AI Enthusiast</strong><br/>
+  Java • Spring Boot • Python • AWS • Distributed Systems • Microservices • Artificial Intelligence
+</p>
 
 <h2> :woman_technologist: About Me </h2>
 
-- 👧 I'm Laxmi Garde.
-- 🇮🇳 I'm from India.
-- 💻 I'm a Software Engineer.
-- :books: I'm currently pursuing Master's in Computer Science at USC:v:
+I'm a software engineer with 5+ years of experience and a Master’s in Computer Science from USC. I focus on building scalable backend systems, clean APIs, and reliable distributed architectures. I have experience working at both enterprise companies like HSBC and AI startups like Beyond Limits. I'm a fast learner, collaborative teammate, and passionate about building reliable, scalable systems that solve real-world problems.
+
+- 🧱 Migrated monolithic applications to modular microservices
+- ☁️ Built cloud-native data pipelines using AWS, Redis & Spring Boot
+- 💡 Contributed to platforms that turn expert knowledge into real-time, explainable AI driven insights
+- 🧠 Interested in hybrid AI systems that blend symbolic reasoning with machine learning
+- 🤝 Team player and mentor, passionate about clean code and continuous improvement
+- 📈 Driven to build systems that are fast, resilient, and thoughtfully designed
+
+<h2> 🚀 Tech Stack & Tools </h2>
+
+#### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+#### ⚙️ Frameworks & Tools
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+#### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+#### ☁️ Cloud & Infrastructure
+
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+#### 🛠️ DevOps & CI/CD
+
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
+
 
 <h2> 🤝 Connect with me </h2> 
-
 <!-- Check out this cool repo for badges : https://dev.to/envoy_/150-badges-for-github-pnk -->
-<a href="https://linkedin.com/in/laxmigarde" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/LaxmiGarde" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /> 
-</a>
-<a href="https://www.hackerrank.com/laxmigarde?hr_r=1" target="_blank">
-    <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerearth.com/@laxmigarde" target="_blank">
-    <img src=https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue alt=hackerearth style="margin-bottom: 5px;" /> 
-</a>
-<a href="https://leetcode.com/laxmigarde/" target="_blank">
-    <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=leetcode style="margin-bottom: 5px;" /> </a>
-<a href="https://github.com/laxmigarde" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 
-<h2> 🚀 Technologies & Tools Used </h2>
-<p align="left">
-    <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank">
-        <img src="https://user-images.githubusercontent.com/10535604/227690260-6ccd4a1b-8d53-48a0-af12-820bef07ee9e.png" alt="java" width="50" height="50" target="_blank" />
-    </a>
-    <a href="https://cplusplus.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" target="_blank" />
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/10535604/227692632-2ed488cb-3c34-4c5b-b4c0-d85996dea23b.png" alt="python" width="50" height="50" target="_blank" />
-    </a>
-    <a href="https://spring.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50" />
-    </a>
-    <a href="https://maven.apache.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg" alt="maven" width="50" height="50" />
-    </a>
-    <a href="https://gradle.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/gradle.svg" alt="gradle" width="50" height="50" />
-    </a>
-    <a href="https://www.w3schools.com/html/" target="_blank" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/10535604/227690562-9d8cf845-4550-4896-a316-367cc83abcaf.png" alt="mysql" width="50" height="50"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="50" height="50" />
-    </a>
-    <a href="https://groovy-lang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="50" height="50" />
-    </a>
-    <a href="https://www.npmjs.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50" />
-    </a>
-    <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50" />
-    </a>
-    <a href="https://dart.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="dart" width="50" height="50" />
-    </a>
-    <a href="https://flutter.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50" />
-    </a>
-    <a href="https://redis.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-    </a>
-    <a href="https://bitbucket.org/product" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="50" height="50" />
-    </a>
-    <a href="https://www.atlassian.com/software/jira/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="50" height="50" />
-    </a>
-    <a href="https://www.jenkins.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" />
-    </a>
-    <a href="https://www.ansible.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="50" height="50" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />
-    </a>
-    <a href="https://kubernetes.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubctl" width="50" height="50" />
-    </a>
-    <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg" alt="idea" width="50" height="50" />
-    </a>
-    <a href="https://www.postman.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
-    </a>
-    <a href="https://www.raspberrypi.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="raspberrypi" width="50" height="50" />
-    </a>
-    <a href="https://jupyter.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50" />
-    </a>
-    <a href="https://tomcat.apache.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg" alt="tomcat" width="50" height="50" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" height="50" />
-    </a>
-    <a href="https://www.heroku.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="50" height="50" />
-    </a>
-</p>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/laxmigarde/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/LaxmiGarde/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laxmigarde)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/laxmigarde/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/laxmigarde?hr_r=1)
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@laxmigarde)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laxmigarde95@gmail.com)
+
 
 <h2> 📊 GitHub Stats </h2>
 
@@ -156,19 +91,18 @@ Here are some ideas to get you started:
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmigarde&layout=compact&count_private=true&theme=vision-friendly-dark" />
 
 
-<h2> 📍 Pins </h2>
-
-[![Holopin board](https://holopin.io/api/user/board?user=laxmigarde)](https://holopin.io/@laxmigarde)
-
-
 <h2> :page_with_curl: Portfolio Link </h2>
 <p align="center">
-    Scan or Click this QR code :smiley:
+    Scan this QR code :smiley:
     <br/><br/>
     <a href="https://laxmigarde.github.io/" target="_blank">
             <img src="https://github.com/laxmigarde/laxmigarde/blob/main/qr-code.png" alt="portfolio" width="120" height="120" />
     </a>
 <p>
+
+<h2> 📍 Pin Collection </h2>
+
+[![Holopin board](https://holopin.io/api/user/board?user=laxmigarde)](https://holopin.io/@laxmigarde)
 
 <br/>
 
